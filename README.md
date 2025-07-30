@@ -6,10 +6,10 @@ This interactive web app analyzes Netflix content data using Python and Streamli
 [🚀 Click here to launch the app](https://netflixanalysis-visual.streamlit.app/)
 
 ## 🚀 Features
-✅ Cleaned and filtered dataset
-✅ Interactive visualizations (bar charts, line graphs, word clouds)
-✅ Filter by content type (Movie/TV Show) and year range
-✅ Built-in sidebar for user controls
+✅ Cleaned and filtered dataset <br>
+✅ Interactive visualizations (bar charts, line graphs, word clouds) <br>
+✅ Filter by content type (Movie/TV Show) and year range <br>
+✅ Built-in sidebar for user controls <br>
 
 ## 📸 Preview
 ![Netflix Data Dashboard Preview](https://github.com/Ankitvmohan/Netflix_Analysis/blob/master/assests/pic1.png)
