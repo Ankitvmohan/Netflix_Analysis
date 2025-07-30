@@ -1,4 +1,4 @@
-# 🎬 Netflix Data Cleaning & Analysis - Streamlit App
+# 🎬 Netflix Data Analysis - Streamlit App
 
 This interactive web app analyzes Netflix content data using Python and Streamlit. It allows users to explore trends, genre popularity, and rating distributions from 2008 to 2021.
 
