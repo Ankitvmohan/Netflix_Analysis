@@ -1,0 +1,6 @@
+seaborn
+streamlit 
+pandas 
+seaborn 
+matplotlib.pyplot
+WordCloud
